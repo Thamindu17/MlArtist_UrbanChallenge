@@ -155,9 +155,6 @@ The `testing notebooks/` directory contains various experimental approaches:
 
 This project is available for educational and research purposes. Please check with the authors for commercial use.
 
-## 👥 Authors
-
-- **Thamindu17** - *Project Lead* - [GitHub Profile](https://github.com/Thamindu17)
 
 ## 🙏 Acknowledgments
 
